@@ -1,25 +1,12 @@
 # How to Manage Articles (For Editors)
 
-Editors can manage articles by reviewing, editing and publishing them.&#x20;
+Editors manage a publication's articles by reviewing, editing and publishing them.
 
-Articles submitted by authors will appear on the Publication page for editors to review:
+When an author submits an article to your publication, it appears in your publication's article list for you to review.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-02-16 at 12.54.09.png" alt=""><figcaption><p>Article List and Submitted Article</p></figcaption></figure>
+From the article list, an editor can:
 
-To manage articles, editors can:
+* Open an article by clicking its title. This opens the article so you can read and review it, and make any edits before it goes live.
+* Publish or unpublish an article with the Live toggle on its row. Turn the toggle on to publish the article; turn it off to take a live article back down.
 
-Click on the article link and review the article:
-
-<figure><img src="../.gitbook/assets/articlelink.png" alt=""><figcaption><p>Article Link</p></figcaption></figure>
-
-Click on the meatball menu to edit, publish, or mint the article:
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-02-16 at 12.59.45.png" alt=""><figcaption><p>Meatball Menu</p></figcaption></figure>
-
-Categorise the article into one of your categories:
-
-<figure><img src="../.gitbook/assets/categor.png" alt=""><figcaption><p>Category Dropdown</p></figcaption></figure>
-
-Select the toggle to publish and unpublish:
-
-<figure><img src="../.gitbook/assets/pubunpub.png" alt=""><figcaption><p>Toggle Button</p></figcaption></figure>
+Each row also shows the article's published and modified dates. Article stats and assigning categories to articles are coming soon.
